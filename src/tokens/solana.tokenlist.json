@@ -97551,6 +97551,19 @@
         "imageUrl": "https://raw.githubusercontent.com/spacepriest/StrikeForce/main/medal/strikeforce%20initiate/logo.png",
         "website": "https://strikeforce-cobra.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DKonwbrd8cC1VWEG9DsM91snjrU5HUsWCyVE8x5NxGNC",
+      "symbol": "2953",
+      "name": "Daymar Rally 2953",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/spacepriest/Daymar-Rally/main/logo.png",
+      "tags": [
+        "StrikeForce",
+        "Medal",
+        "Star-Citizen"
+      ]
     }
   ],
   "version": {
